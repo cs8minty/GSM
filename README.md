@@ -1,3 +1,7 @@
+## GSM (Grae Store Manager)
+
+본 프로젝트는 스토어 관리 목적으로 만들어진 스토어 관리 시스템 입니다.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
